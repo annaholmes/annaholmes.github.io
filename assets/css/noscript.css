@@ -8,5 +8,8 @@
 
 	#main article {
 		opacity: 1;
-		margin: 4rem 0 0 0;
+		margin-top: 4rem;
+		margin-right: 0;
+		margin-left: 0;
+		margin-bottom: 0;
 	}
